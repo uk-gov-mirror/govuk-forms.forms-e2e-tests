@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 ruby file: ".ruby-version"
 
+gem "activesupport"
 gem "aws-sdk-s3", "~> 1.228"
 gem "capybara"
 gem "config"
